@@ -1,0 +1,10 @@
+{
+  "name": "RK92-EMA-20260406-REAL0002",
+  "description": "Bootstrap metadata for mint-init testing",
+  "image": "https://adoptgold.app/rwa/metadata/cert/bootstrap/RK92-EMA-20260406-REAL0002/nft/image.png",
+  "attributes": [
+    { "trait_type": "RWA Code", "value": "RK92-EMA" },
+    { "trait_type": "Family", "value": "GENESIS" },
+    { "trait_type": "Cert UID", "value": "RK92-EMA-20260406-REAL0002" }
+  ]
+}

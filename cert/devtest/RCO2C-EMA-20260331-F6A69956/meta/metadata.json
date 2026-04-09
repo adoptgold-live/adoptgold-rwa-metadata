@@ -1,0 +1,32 @@
+{
+    "name": "GREEN RWA CERT #RCO2C-EMA-20260331-F6A69956",
+    "description": "GREEN RWA CERT · DEV ONE-CLICK TEST · RCO2C-EMA-20260331-F6A69956",
+    "image": "https://adoptgold.app/rwa/metadata/cert/devtest/RCO2C-EMA-20260331-F6A69956/nft/image.png",
+    "external_url": "https://adoptgold.app/rwa/cert/verify.php?uid=RCO2C-EMA-20260331-F6A69956",
+    "attributes": [
+        {
+            "trait_type": "Cert UID",
+            "value": "RCO2C-EMA-20260331-F6A69956"
+        },
+        {
+            "trait_type": "RWA Code",
+            "value": "RCO2C-EMA"
+        },
+        {
+            "trait_type": "Type",
+            "value": "GREEN"
+        },
+        {
+            "trait_type": "Owner Wallet",
+            "value": "0:717359c4fcc1ad210a72d704f3567a104cf7d09afe6cb7fbb640959234d02f6d"
+        },
+        {
+            "trait_type": "Issuer",
+            "value": "Blockchain Group RWA FZCO (DMCC, Dubai, UAE)"
+        },
+        {
+            "trait_type": "Mode",
+            "value": "DEV_ONECLICK"
+        }
+    ]
+}
