@@ -38,7 +38,7 @@
             "path": "proof/mint-proof.json"
         }
     },
-    "generated_at": "2026-04-09T16:00:01+00:00",
+    "generated_at": "2026-04-10T02:30:02+00:00",
     "generator": "cert-manifest-builder@v1.0.0-20260404",
     "meta": {
         "family": "SECONDARY",
@@ -52,7 +52,9 @@
             "bootstrap_created",
             "created_via",
             "bootstrap_stub_paths",
-            "owner_wallet_raw"
+            "owner_wallet_raw",
+            "payment",
+            "lifecycle"
         ]
     }
 }

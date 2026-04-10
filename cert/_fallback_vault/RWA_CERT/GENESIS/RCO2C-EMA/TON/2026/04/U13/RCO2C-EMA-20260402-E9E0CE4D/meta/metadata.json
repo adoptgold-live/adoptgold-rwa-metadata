@@ -1,53 +1,24 @@
 {
-    "name": "RCO2C-EMA-20260402-E9E0CE4D · Green RWA Cert",
-    "description": "POAdo RWA Cert NFT",
-    "image": "https://adoptgold.app/rwa/metadata/cert/_fallback_vault/RWA_CERT/GENESIS/RCO2C-EMA/TON/2026/04/U13/RCO2C-EMA-20260402-E9E0CE4D/nft/image.png",
-    "external_url": "https://adoptgold.app/rwa/cert/verify.php?uid=RCO2C-EMA-20260402-E9E0CE4D",
-    "attributes": [
-        {
-            "trait_type": "Cert UID",
-            "value": "RCO2C-EMA-20260402-E9E0CE4D"
-        },
-        {
-            "trait_type": "RWA Code",
-            "value": "RCO2C-EMA"
-        },
-        {
-            "trait_type": "RWA Type",
-            "value": "green"
-        },
-        {
-            "trait_type": "Family",
-            "value": "GENESIS"
-        },
-        {
-            "trait_type": "TON Wallet",
-            "value": "0:717359c4fcc1ad210a72d704f3567a104cf7d09afe6cb7fbb640959234d02f6d"
-        },
-        {
-            "trait_type": "Unit of Responsibility",
-            "value": "10 kg tCO2e"
-        },
-        {
-            "trait_type": "cert_uid",
-            "value": "RCO2C-EMA-20260402-E9E0CE4D"
-        },
-        {
-            "trait_type": "rwa_code",
-            "value": "RCO2C-EMA"
-        },
-        {
-            "trait_type": "cert_type",
-            "value": "GREEN"
-        }
-    ],
-    "symbol": "RWA",
-    "image_url": "/rwa/metadata/cert/_fallback_vault/RWA_CERT/GENESIS/RCO2C-EMA/TON/2026/04/U13/RCO2C-EMA-20260402-E9E0CE4D/nft/image.png",
-    "repair": {
-        "ok": true,
-        "version": "v2.4.0-20260403-auto-artifact-authoritative-lock",
-        "metadata_path": "rwa/metadata/cert/_fallback_vault/RWA_CERT/GENESIS/RCO2C-EMA/TON/2026/04/U13/RCO2C-EMA-20260402-E9E0CE4D/meta/metadata.json",
-        "image_path": "rwa/metadata/cert/_fallback_vault/RWA_CERT/GENESIS/RCO2C-EMA/TON/2026/04/U13/RCO2C-EMA-20260402-E9E0CE4D/nft/image.png",
-        "updated_at": "2026-04-03T17:41:03+08:00"
+  "name": "RCO2C-EMA-20260402-E9E0CE4D \u00b7 Green RWA Cert",
+  "description": "AdoptGold RWA Certificate NFT",
+  "image": "https://adoptgold.app/rwa/metadata/cert/_fallback_vault/RWA_CERT/GENESIS/RCO2C-EMA/TON/2026/04/U13/RCO2C-EMA-20260402-E9E0CE4D/nft/image.png",
+  "external_url": "https://adoptgold.app/rwa/cert/verify.php?uid=RCO2C-EMA-20260402-E9E0CE4D \u00b7 Green RWA Cert",
+  "attributes": [
+    {
+      "trait_type": "RWA Code",
+      "value": "RCO2C-EMA"
+    },
+    {
+      "trait_type": "Family",
+      "value": "GENESIS"
+    },
+    {
+      "trait_type": "Cert UID",
+      "value": "RCO2C-EMA-20260402-E9E0CE4D \u00b7 Green RWA Cert"
+    },
+    {
+      "trait_type": "Unit of Responsibility",
+      "value": "10 kg tCO2e"
     }
+  ]
 }
