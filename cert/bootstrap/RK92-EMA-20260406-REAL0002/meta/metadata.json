@@ -1,7 +1,7 @@
 {
   "name": "RK92-EMA-20260406-REAL0002",
   "description": "AdoptGold RWA Certificate NFT",
-  "image": "https://cdn.jsdelivr.net/gh/adoptgold-live/adoptgold-rwa-metadata@57a9d68187d266cddfb151accc23438033f556e1/cert/bootstrap/RK92-EMA-20260406-REAL0002/nft/image.png",
+  "image": "https://cdn.jsdelivr.net/gh/adoptgold-live/adoptgold-rwa-metadata@main/cert/bootstrap/RK92-EMA-20260406-REAL0002/nft/image.png",
   "external_url": "https://adoptgold.app/rwa/cert/verify.php?uid=RK92-EMA-20260406-REAL0002",
   "attributes": [
     {
